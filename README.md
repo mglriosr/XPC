@@ -43,3 +43,9 @@ Somos una empresa con muchos años en el mercado y el respaldo de cada uno de nu
 > - Nunca des a terceros tus credenciales de acceso como cliente.
 > - Recuerda siempre de leer nuestras políticas de privacidad y garantías.
 > ![](https://xpc.com.ec/guides-images/1.png)
+
+## Visión general de los elementos de la página
+En este apartado aportaremos una visión general del uso de cada parte de las páginas que componen nuestro sitio
+
+> - Página de inicio
+> ![](https://xpc.com.ec/guides-images/3.png)
