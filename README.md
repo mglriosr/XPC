@@ -40,4 +40,4 @@ Somos una empresa con muchos años en el mercado y el respaldo de cada uno de nu
 > - Asegúrate todo el tiempo, y más aún al momento de finalizar tus compras, de estar dentro de nuestra página, para lo cual debes fijarte siempre del certificado de seguridad de nuestra tienda en línea y de estar en nuestro dominio (https://xpc.com.ec).
 > - Nunca des a terceros tus credenciales de acceso como cliente.
 > - Recuerda siempre de leer nuestras políticas de privacidad y garantías.
-> (https://xpc.com.ec/guides-images/1.png)
+> ![](https://xpc.com.ec/guides-images/1.png)
