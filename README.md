@@ -1,6 +1,4 @@
 # MANUAL DE USO DE LA PÁGINA WEB XPC
-# https://xpc.com.ec
-
 ## Contenido
 A continuación detallaremos los puntos especificados en este manual, le recordamos que este manual está enfocado el usuario final de la página web.
 
