@@ -1,9 +1,8 @@
 # MANUAL DE USO DE LA PÁGINA WEB XPC
-
+![](https://xpc.com.ec/guides-images/2.png)
 ------
 ## Contenido
 A continuación detallaremos los puntos especificados en este manual, le recordamos que este manual está enfocado el usuario final de la página web.
-![](https://xpc.com.ec/guides-images/2.png)
 > - **Introducción**
 > - - Consideraciones a tener encuesta antes de empezar
 > - - Visión general de los elementos de la página
