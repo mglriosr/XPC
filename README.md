@@ -38,6 +38,6 @@ Nuestro nuevo sitio permite pagos con tarjeta de **débito** ó **crédito**, pe
 ## Consideraciones a tener encuesta antes de empezar
 Somos una empresa con muchos años en el mercado y el respaldo de cada uno de nuestros servicios es fundamental para la satisfacción de nuestros cientes, es por eso que, hemos tenido las precauciones necesarias para asegurar el uso de nuestra página web y evitar fraudes y malas experiencias. Para ello, es importante que tengas en cuenta lo siguiente:
 
-> Asegúrate todo el tiempo, y más aún al momento de finalizar tus compras, de estar dentro de nuestra página, para lo cual debes fijarte siempre del certificado de seguridad de nuestra tienda en línea y de estar en nuestro dominio (https://xpc.com.ec).
-> Nunca des a terceros tus credenciales de acceso como cliente.
-> Recuerda siempre de leer nuestras políticas de privacidad y garantías.
+> - Asegúrate todo el tiempo, y más aún al momento de finalizar tus compras, de estar dentro de nuestra página, para lo cual debes fijarte siempre del certificado de seguridad de nuestra tienda en línea y de estar en nuestro dominio (https://xpc.com.ec).
+> - Nunca des a terceros tus credenciales de acceso como cliente.
+> - Recuerda siempre de leer nuestras políticas de privacidad y garantías.
