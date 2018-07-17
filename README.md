@@ -1,5 +1,5 @@
 # MANUAL DE USO DE LA PÁGINA WEB XPC
-![](https://xpc.com.ec/guides-images/2.png)
+<center>![](https://xpc.com.ec/guides-images/2.png)</center>
 ------
 ## Contenido
 A continuación detallaremos los puntos especificados en este manual, le recordamos que este manual está enfocado el usuario final de la página web.
