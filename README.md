@@ -1,33 +1,32 @@
 # MANUAL DE USO DE LA PÁGINA WEB XPC
-# Bienvenido estimado cliente
 ------
 ## Contenido
 A continuación detallaremos los puntos especificados en este manual, le recordamos que este manual está enfocado el usuario final de la página web.
 
-- **Introducción**
-- - Consideraciones a tener encuesta antes de empezar
-- - Visión general de los elementos de la página
-- - Visión específica de los elementos de la página
-- - Detalle de cada pestaña
-- - Ari
-- - Módulo de **Servicio Técnico**
-- - Mi cuenta
-- - Cuenta distribuidor
-- - Cuenta cliente registrado
-- - Formulario y solicitudes
-- **Tienda en línea**
-- - Ver un producto
-- - Accesos directos
-- - Añadir a favoritos
-- - Comparar productos
-- - Ver productos
-- - Comprar productos
-- - Finalizar pago
-- - Formas de envío
-- - Formas de pago
-- - - Pago contra-entrega
-- - - Pago vía transferencia o depósito bancario
-- - - Pago con **tarjeta de crédito / débito** (Paymentez)
+> - **Introducción**
+> - - Consideraciones a tener encuesta antes de empezar
+> - - Visión general de los elementos de la página
+> - - Visión específica de los elementos de la página
+> - - Detalle de cada pestaña
+> - - Ari
+> - - Módulo de **Servicio Técnico**
+> - - Mi cuenta
+> - - Cuenta distribuidor
+> - - Cuenta cliente registrado
+> - - Formulario y solicitudes
+> - **Tienda en línea**
+> - - Ver un producto
+> - - Accesos directos
+> - - Añadir a favoritos
+> - - Comparar productos
+> - - Ver productos
+> - - Comprar productos
+> - - Finalizar pago
+> - - Formas de envío
+> - - Formas de pago
+> - - - Pago contra-entrega
+> - - - Pago vía transferencia o depósito bancario
+> - - - Pago con **tarjeta de crédito / débito** (Paymentez)
 
 
 # Introducción
