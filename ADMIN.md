@@ -23,9 +23,10 @@ A continuación una foto del panel de administración de wordpress:
 
 ![](https://xpc.com.ec/guides-images/a2.png)
 
-## Menús importantes
+## Enlances importantes
 En la parte lateral del panel de administración encontramos los menús correspondientes a todos los parámetros de administración del sitio web. En este manual sólo haremos referencia a los más importantes y de manejo cotidiano, ya que, los demás se entregan configurados y listos para usar al momento de entregar este manual.
-![](https://xpc.com.ec/guides-images/a3.png)
+
+> ![](https://xpc.com.ec/guides-images/a3.png)
 
 ### Páginas 
 Contiene todas las páginas configuradas para el sitio web así también como las opciones crear, modificar y borrar cualquiera de ellas, como ya se especificó, todas están pre-configuradas así que no hay mayor explicación en este parámetro.
