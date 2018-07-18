@@ -47,5 +47,9 @@ Somos una empresa con muchos años en el mercado y el respaldo de cada uno de nu
 ## Visión general de los elementos de la página
 En este apartado aportaremos una visión general del uso de cada parte de las páginas que componen nuestro sitio
 
-> - Página de inicio
+> - **INICIO**
 > ![](https://xpc.com.ec/guides-images/3.png)
+> Cómo se puede apreciar, esta es la interfaz con la que se encontrará al ingresar al sistema, por ende, la navegación empieza desde este punto, en donde se puede apreciar las opciones básicas del sitio y el acceso directo a los productos.
+
+> En la primera barra de navegaión tenemos el acceso cualquiera de los dos tipos de usuarios, además del enlace al formulario de solicitud para ser distribuidor. **¡Importante!** Es muy importante recalcar que el sitio para distribuidores es un sitio que funciona en paralelo ya que tiene diferentes servicios y que sólo podrá acceder a este si forma parte de nuestra base de datos de distribuidores.
+> ![](https://xpc.com.ec/guides-images/4.png)
