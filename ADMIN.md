@@ -30,7 +30,7 @@ En la parte lateral del panel de administración encontramos los menús correspo
 
 ### Páginas 
 Contiene todas las páginas configuradas para el sitio web así también como las opciones crear, modificar y borrar cualquiera de ellas, como ya se especificó, todas están pre-configuradas así que no hay mayor explicación en este parámetro.
-![](https://xpc.com.ec/guides-images/a4.png).
+![](https://xpc.com.ec/guides-images/a4.png)
 
 ### Contacto
 Contiene todos los formularios y solicitudes de la página (*Fuera del módulo de RMA*).
@@ -56,6 +56,10 @@ Woocommerce es el servicio que utiliza Wordpress para tienda en línea. Woocomme
 > ![](https://xpc.com.ec/guides-images/a13.png)
 
 ### Productos
+En cuanto a los productos, la administración de estos viene directamente desde la base de datos administrada por XPC, por lo que no habría mayor información fuera de la requerida para subir imágenes en nuevos productos.
 
+> ![](https://xpc.com.ec/guides-images/a14.png)
 
+> Para subir una o más fotos de un producto debes acceder a esta opción, ubicada en la parte inferior derecha de la página de edición de productos
 
+> ![](https://xpc.com.ec/guides-images/a15.png)
