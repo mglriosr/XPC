@@ -36,7 +36,7 @@ Bienvenidos a XPC, nuestra renovada página web ahora cumple la función de e-co
 
 Nuestro nuevo sitio permite pagos con tarjeta de **débito** ó **crédito**, permitiendo con esta última también las opciones de diferir con y sin intereses. Trabajamos bajo el respaldo del **Banco del Pacífico** y su plataforma aliada **Paymentez**, además, permitimos otros métodos de pagos especificados en el apartado de -Formas de pago-, es importante recalar que el enfoque de nuestro nuevo servicio es la comodidad de nuestros clientes, por lo que, en la mayoría de casos, la entrega del o los productos cadquiridos en línea serán entregados a domicilio con previo acuerdo entre las partes.
 
-## Consideraciones a tener encuesta antes de empezar
+## Consideraciones a tener encuenta antes de empezar
 Somos una empresa con muchos años en el mercado y el respaldo de cada uno de nuestros servicios es fundamental para la satisfacción de nuestros cientes, es por eso que, hemos tenido las precauciones necesarias para asegurar el uso de nuestra página web y evitar fraudes y malas experiencias. Para ello, es importante que tengas en cuenta lo siguiente:
 
 > - Asegúrate todo el tiempo, y más aún al momento de finalizar tus compras, de estar dentro de nuestra página, para lo cual debes fijarte siempre del certificado de seguridad de nuestra tienda en línea y de estar en nuestro dominio (https://xpc.com.ec).
@@ -61,14 +61,14 @@ En este apartado aportaremos una visión general del uso de cada parte de las p�
 > A continuación se encuentra la barra de menús general de la página
 > ![](https://xpc.com.ec/guides-images/7.png)
 > Misma en la que, empezando de izquierda a derecha encontramos los menús básicos de navegación.
-> -- **Ícono de Buscar.-** Permite buscar productos usando el nombre del mismo.
-> -- **Menú de la página.-** Permite dirigirse a cada una de las pestañas del sitio.
-> -- **Ícono de carrito.-** Este ícono es fundamental ya que permite acceder al listado de productos añadidos durante su compra, lugar en donde también podrá editar o finalizar su compra.
+> - - **Ícono de Buscar.-** Permite buscar productos usando el nombre del mismo.
+> - - **Menú de la página.-** Permite dirigirse a cada una de las pestañas del sitio.
+> - - **Ícono de carrito.-** Este ícono es fundamental ya que permite acceder al listado de productos añadidos durante su compra, lugar en donde también podrá editar o finalizar su compra.
 > ![](https://xpc.com.ec/guides-images/8.png)
 
 > Los banners contendrán información importante de nuestras principales marcas así que debe estar siempre atento con ello.
 ![](https://xpc.com.ec/guides-images/9.png)
 
 > En la parte izquierda encontramos el menú de filtros de búsquedas de productos.
-> ![](https://xpc.com.ec/guides-images/10.png)
+> ![](https://xpc.com.ec/guides-images/10.png).
 > A demás encontramos el enlace de consulta de su **Facturación electrónica**.
