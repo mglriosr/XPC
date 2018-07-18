@@ -71,4 +71,9 @@ En este apartado aportaremos una visión general del uso de cada parte de las p�
 
 > En la parte izquierda encontramos el menú de filtros de búsquedas de productos.
 > ![](https://xpc.com.ec/guides-images/10.png).
+
 > A demás encontramos el enlace de consulta de su **Facturación electrónica**.
+
+> A continuación en contramos un listado de productos presentados en portada de forma aleatoria
+> ![](https://xpc.com.ec/guides-images/11.png)
+> - **Recalcamos que esta interfaz será la misma con la que se encontrará en cada pesataña de categoría de productos, es decir en cada interfaz de la tineda en línea**
