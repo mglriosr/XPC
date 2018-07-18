@@ -47,9 +47,28 @@ Somos una empresa con muchos años en el mercado y el respaldo de cada uno de nu
 ## Visión general de los elementos de la página
 En este apartado aportaremos una visión general del uso de cada parte de las páginas que componen nuestro sitio
 
-> - **INICIO**
+> **INICIO**
 > ![](https://xpc.com.ec/guides-images/3.png)
 > Cómo se puede apreciar, esta es la interfaz con la que se encontrará al ingresar al sistema, por ende, la navegación empieza desde este punto, en donde se puede apreciar las opciones básicas del sitio y el acceso directo a los productos.
 
 > En la primera barra de navegaión tenemos el acceso cualquiera de los dos tipos de usuarios, además del enlace al formulario de solicitud para ser distribuidor. **¡Importante!** Es muy importante recalcar que el sitio para distribuidores es un sitio que funciona en paralelo ya que tiene diferentes servicios y que sólo podrá acceder a este si forma parte de nuestra base de datos de distribuidores.
 > ![](https://xpc.com.ec/guides-images/4.png)
+> Si ya has iniciado sesión tendrás en este mismo lugar el botón de cerrar sesión.
+> ![](https://xpc.com.ec/guides-images/5.png)
+> Mismo que puede ser encontrado en la pestaña de mi cuenta a la que puede ingresar dando click en el menú **Soy Cliente registrado** de este mismo menú y luego dirigiéndose a la última opción de este menú
+> ![](https://xpc.com.ec/guides-images/6.png)
+
+> A continuación se encuentra la barra de menús general de la página
+> ![](https://xpc.com.ec/guides-images/7.png)
+> Misma en la que, empezando de izquierda a derecha encontramos los menús básicos de navegación.
+> -- **Ícono de Buscar.-** Permite buscar productos usando el nombre del mismo.
+> -- **Menú de la página.-** Permite dirigirse a cada una de las pestañas del sitio.
+> -- **Ícono de carrito.-** Este ícono es fundamental ya que permite acceder al listado de productos añadidos durante su compra, lugar en donde también podrá editar o finalizar su compra.
+> ![](https://xpc.com.ec/guides-images/8.png)
+
+> Los banners contendrán información importante de nuestras principales marcas así que debe estar siempre atento con ello.
+![](https://xpc.com.ec/guides-images/9.png)
+
+> En la parte izquierda encontramos el menú de filtros de búsquedas de productos.
+> ![](https://xpc.com.ec/guides-images/10.png)
+> A demás encontramos el enlace de consulta de su **Facturación electrónica**.
