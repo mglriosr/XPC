@@ -63,3 +63,24 @@ En cuanto a los productos, la administración de estos viene directamente desde 
 > Para subir una o más fotos de un producto debes acceder a esta opción, ubicada en la parte inferior derecha de la página de edición de productos
 
 > ![](https://xpc.com.ec/guides-images/a15.png)
+
+# cPanel 
+## Detalles técnicos generales
+
+> A continuación se detallan los conceptos fundamentales para la adminsitración del hosting.
+
+> **Ingresar**.- Se adjuntan las credenciales:
+> Link de ingreso: xpc.com.ec/cpanel
+> Usuario: xpccczfq
+> Contraseña: yYBmbnyx1Her
+> ![](https://xpc.com.ec/guides-images/a16.png)
+
+# Namecheap
+## Proveedor de servidor
+
+> ![](https://xpc.com.ec/guides-images/a17.png)
+
+> **Ingresar**.- Se adjuntan credenciales:
+> Link de acceso: namecheap.com
+> Usuario: XpcEcuador
+> Contraseña: Xpc2018*
