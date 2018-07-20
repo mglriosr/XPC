@@ -70,17 +70,25 @@ En cuanto a los productos, la administración de estos viene directamente desde 
 > A continuación se detallan los conceptos fundamentales para la adminsitración del hosting.
 
 > **Ingresar**.- Se adjuntan las credenciales:
+
 > Link de ingreso: xpc.com.ec/cpanel
+
 > Usuario: xpccczfq
+
 > Contraseña: yYBmbnyx1Her
+
 > ![](https://xpc.com.ec/guides-images/a16.png)
 
 # Namecheap
 ## Proveedor de servidor
 
+> **Ingresar**.- Se adjuntan credenciales:
+
+> Link de acceso: namecheap.com
+
+> Usuario: XpcEcuador
+
+> Contraseña: Xpc2018*
+
 > ![](https://xpc.com.ec/guides-images/a17.png)
 
-> **Ingresar**.- Se adjuntan credenciales:
-> Link de acceso: namecheap.com
-> Usuario: XpcEcuador
-> Contraseña: Xpc2018*
