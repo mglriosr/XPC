@@ -126,7 +126,7 @@ En cuanto a los productos, la administración de estos viene directamente desde 
 > ![](https://xpc.com.ec/guides-images/a27.png)
 
 ### Procesos
-> Los procesos de manipulación de base de datos que usamos para el desarrollo del sitio web son los predeterminados de Wordpress, con el plugin de administración de tienda WooCommerce, existen muchas otras maneras de hacerlo y esto depende de cada desarrollador y/o administrador del sitio web. En casos de manipulación, migraciones o actualizaciones de estas, lo recomendable es usar las configuraciones predeterminadas de wordpress.
+> Los procesos de manipulación de base de datos que usamos para el desarrollo del sitio web son los predeterminados de Wordpress, con el plugin de administración de tienda WooCommerce, existen muchas otras maneras de hacerlo y esto depende de cada desarrollador y/o administrador del sitio web. En casos de manipulación, migraciones o actualizaciones de estas, pero nosotros recomendamos usar las predeterminadas de wordpress.
 
 # Namecheap
 ## Proveedor de servidor
