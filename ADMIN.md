@@ -113,6 +113,8 @@ En cuanto a los productos, la administración de estos viene directamente desde 
 > - xpccczfq_wordpress (Bdd para la instalación de wordpress de la versión de *Clientes finales*)
 > - xpccczfq_wordpress-distribuidor (Bdd para la instalación de wordpress de la versión de *Distribuidores* )
 
+> ![](https://xpc.com.ec/guides-images/a26.png)
+
 > **Especificaciones:**
 
 > - Las tablas que comiencen con los prefijos *wpk6* hacen referencia a los datos que alamcena **Wordpress** para el funcionamiento general del sitio web.
@@ -120,6 +122,8 @@ En cuanto a los productos, la administración de estos viene directamente desde 
 > - Las tablas que comiencen con los prefijos *wpk6-woocommerce* hacen referencia a los datos que almacena **WooCommerce**, es decir, de la tienda en línea.
 
 > - Las tablas que no tengan ningun prefijo son las tablas con las que funciona el **módulo** adicional de RMA.
+
+> ![](https://xpc.com.ec/guides-images/a27.png)
 
 # Namecheap
 ## Proveedor de servidor
