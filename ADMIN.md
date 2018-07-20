@@ -79,6 +79,24 @@ En cuanto a los productos, la administración de estos viene directamente desde 
 
 > ![](https://xpc.com.ec/guides-images/a16.png)
 
+## Archivos
+
+> Para acceder a los archivos almacenados en el servidor debe dirigirse a la opción de Files >> File Manage
+
+> ![](https://xpc.com.ec/guides-images/a18.png)
+> ![](https://xpc.com.ec/guides-images/a19.png)
+
+> Una vez dentro, debe ingresar al directorio public_html, en donde encontraremos todos los archivos de configuración, forntend y backend de Wordpress.
+
+> ![](https://xpc.com.ec/guides-images/a20.png)
+
+**IMPORTANTE**
+
+> Debe tomar encuenta que las versiones de Cliente y Administrador trabajan con su propia instalación de wordpress, al ingresar al directorio especificado anteriormente está accediendo a la versión de cliente final, para acceder a la versión de **distribuidores** debe dirigirse, en el mismo directorio de cliente final a la carpeta *app/distribuidor*
+
+> ![](https://xpc.com.ec/guides-images/a21.png)
+> ![](https://xpc.com.ec/guides-images/a22.png)
+
 # Namecheap
 ## Proveedor de servidor
 
@@ -90,5 +108,5 @@ En cuanto a los productos, la administración de estos viene directamente desde 
 
 > Contraseña: Xpc2018*
 
-> ![](https://xpc.com.ec/guides-images/a17.png)
+> ![](https://xpc.com.ec/guides-images/a13.png)
 
