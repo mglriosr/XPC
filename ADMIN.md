@@ -99,6 +99,28 @@ En cuanto a los productos, la administración de estos viene directamente desde 
 
 > ![](https://xpc.com.ec/guides-images/a22.png)
 
+> ![](https://xpc.com.ec/guides-images/a23.png)
+
+## BDD
+
+> Para ingresar a las base de datos con las que funciona el sitio web debemos dirigirnos al apartado de *Databases >> phpMyAdmin* 
+
+> ![](https://xpc.com.ec/guides-images/a24.png)
+
+> ![](https://xpc.com.ec/guides-images/a25.png)
+
+> Una vez dentro, encontraremos dos bases de datos registradas:
+> - xpccczfq_wordpress (Bdd para la instalación de wordpress de la versión de *Clientes finales*)
+> - xpccczfq_wordpress-distribuidor (Bdd para la instalación de wordpress de la versión de *Distribuidores* )
+
+> **Especificaciones:**
+
+> - Las tablas que comiencen con los prefijos *wpk6* hacen referencia a los datos que alamcena **Wordpress** para el funcionamiento general del sitio web.
+
+> - Las tablas que comiencen con los prefijos *wpk6-woocommerce* hacen referencia a los datos que almacena **WooCommerce**, es decir, de la tienda en línea.
+
+> - Las tablas que no tengan ningun prefijo son las tablas con las que funciona el **módulo** adicional de RMA.
+
 # Namecheap
 ## Proveedor de servidor
 
