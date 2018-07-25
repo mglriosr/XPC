@@ -149,3 +149,9 @@ En cuanto a los productos, la administración de estos viene directamente desde 
 > ![](https://xpc.com.ec/guides-images/a17.png)
 
 ### CHAT
+Script
+credenciales
+
+### Administración de garantias
+passwords
+
