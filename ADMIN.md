@@ -46,6 +46,7 @@ Woocommerce es el servicio que utiliza Wordpress para tienda en línea. Woocomme
 ![](https://xpc.com.ec/guides-images/a8.png)
 
 ### Especificar cómo cambiar el estado del pedido
+### Como traer pedidos
 
 ### Pedidos
 ![](https://xpc.com.ec/guides-images/a9.png)
