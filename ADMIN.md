@@ -67,6 +67,8 @@ En cuanto a los productos, la administración de estos viene directamente desde 
 
 > ![](https://xpc.com.ec/guides-images/a15.png)
 
+### Como subir CSV
+
 # cPanel 
 ## Detalles técnicos generales
 
