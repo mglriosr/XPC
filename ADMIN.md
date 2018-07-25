@@ -45,6 +45,8 @@ Contiene todos los formularios y solicitudes de la página (*Fuera del módulo d
 Woocommerce es el servicio que utiliza Wordpress para tienda en línea. Woocommerce permite la administración tanto de **productos** como de **pedidos**.
 ![](https://xpc.com.ec/guides-images/a8.png)
 
+### Especificar cómo cambiar el estado del pedido
+
 ### Pedidos
 ![](https://xpc.com.ec/guides-images/a9.png)
 
