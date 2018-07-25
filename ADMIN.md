@@ -63,6 +63,8 @@ En cuanto a los productos, la administración de estos viene directamente desde 
 
 > ![](https://xpc.com.ec/guides-images/a14.png)
 
+> El tamaño de la imagen debe ser de 500X500 px
+
 > Para subir una o más fotos de un producto debes acceder a esta opción, ubicada en la parte inferior derecha de la página de edición de productos
 
 > ![](https://xpc.com.ec/guides-images/a15.png)
