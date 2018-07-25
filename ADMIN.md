@@ -38,6 +38,9 @@ Contiene todos los formularios y solicitudes de la página (*Fuera del módulo d
 ![](https://xpc.com.ec/guides-images/a6.png)
 ![](https://xpc.com.ec/guides-images/a7.png)
 
+### Menús
+----------------------------------------------
+
 ## Woocomerce
 Woocommerce es el servicio que utiliza Wordpress para tienda en línea. Woocommerce permite la administración tanto de **productos** como de **pedidos**.
 ![](https://xpc.com.ec/guides-images/a8.png)
