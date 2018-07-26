@@ -72,8 +72,8 @@ En cuanto a los productos, la administración de estos viene directamente desde 
 
 > ![](https://xpc.com.ec/guides-images/a15.png)
 
-### Importar / Exportar Información
-## Como traer pedidos
+## Importar / Exportar Información
+### Como traer pedidos
 
 ### Como subir CSV
 
