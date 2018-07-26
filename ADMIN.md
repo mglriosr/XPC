@@ -74,7 +74,7 @@ En cuanto a los productos, la administración de estos viene directamente desde 
 
 # Importar / Exportar Información
 ### Importar productos, usuarios, tracking
-#### Productos
+> #### Productos
 > ![](https://xpc.com.ec/guides-images/a32.png)
 > ![](https://xpc.com.ec/guides-images/a33.png)
 > ![](https://xpc.com.ec/guides-images/a34.png)
@@ -84,6 +84,16 @@ En cuanto a los productos, la administración de estos viene directamente desde 
 > ![](https://xpc.com.ec/guides-images/a38.png)
 > ![](https://xpc.com.ec/guides-images/a39.png)
 
+> #### Usuarios
+> ![](https://xpc.com.ec/guides-images/a40.png)
+> ![](https://xpc.com.ec/guides-images/a41.png)
+> ![](https://xpc.com.ec/guides-images/a42.png)
+> ![](https://xpc.com.ec/guides-images/a43.png)
+
+
+
+#### Importante
+> Los procesos de manipulación de base de datos que usamos para el desarrollo del sitio web son los predeterminados de Wordpress, con el plugin de administración de tienda WooCommerce, existen muchas otras maneras de hacerlo y esto depende de cada desarrollador y/o administrador del sitio web. En casos de manipulación, migraciones o actualizaciones de estas, pero nosotros recomendamos usar las predeterminadas de wordpress.
 
 ### Como subir CSV
 
@@ -149,9 +159,6 @@ En cuanto a los productos, la administración de estos viene directamente desde 
 > ![](https://xpc.com.ec/guides-images/a27.png)
 
 ### Especificiaciones de las tablas (Servicios Técnico y Garantias)
-
-### Procesos
-> Los procesos de manipulación de base de datos que usamos para el desarrollo del sitio web son los predeterminados de Wordpress, con el plugin de administración de tienda WooCommerce, existen muchas otras maneras de hacerlo y esto depende de cada desarrollador y/o administrador del sitio web. En casos de manipulación, migraciones o actualizaciones de estas, pero nosotros recomendamos usar las predeterminadas de wordpress.
 
 # Namecheap
 ## Proveedor de servidor
