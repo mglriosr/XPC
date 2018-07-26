@@ -61,8 +61,6 @@ Woocommerce es el servicio que utiliza Wordpress para tienda en línea. Woocomme
 > ![](https://xpc.com.ec/guides-images/a12.png)
 > ![](https://xpc.com.ec/guides-images/a13.png)
 
-## Como traer pedidos
-
 ### Productos
 En cuanto a los productos, la administración de estos viene directamente desde la base de datos administrada por XPC, por lo que no habría mayor información fuera de la requerida para subir imágenes en nuevos productos.
 
@@ -73,6 +71,9 @@ En cuanto a los productos, la administración de estos viene directamente desde 
 > Para subir una o más fotos de un producto debes acceder a esta opción, ubicada en la parte inferior derecha de la página de edición de productos
 
 > ![](https://xpc.com.ec/guides-images/a15.png)
+
+### Importar / Exportar Información
+## Como traer pedidos
 
 ### Como subir CSV
 
