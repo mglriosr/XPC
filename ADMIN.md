@@ -39,27 +39,29 @@ Contiene todos los formularios y solicitudes de la página (*Fuera del módulo d
 ![](https://xpc.com.ec/guides-images/a7.png)
 
 ### Menús
-----------------------------------------------
+Para crear, editar o borrar los menús del sitio web, se debe dirigir a la pesataña de Aperiencia >> Menús del panel principal de la administración de wordpress
+![](https://xpc.com.ec/guides-images/a28.png)
+![](https://xpc.com.ec/guides-images/a29.png)
 
 ## Woocomerce
 Woocommerce es el servicio que utiliza Wordpress para tienda en línea. Woocommerce permite la administración tanto de **productos** como de **pedidos**.
 ![](https://xpc.com.ec/guides-images/a8.png)
-
-### Especificar cómo cambiar el estado del pedido
-### Como traer pedidos
 
 ### Pedidos
 ![](https://xpc.com.ec/guides-images/a9.png)
 
 > Permite administrar los pedidos desde la página web, permitiendo las siguientes configuraciones.
 
-> - ** Modificar estados **
+### Estado del pedido
 > ![](https://xpc.com.ec/guides-images/a10.png)
+> ![](https://xpc.com.ec/guides-images/a31.png)
 
 > - ** ¡IMPORTANTE! Esta opción es proporcionada por la pasarela de pagos Paymentez y permite devolución del dinero de una compra siempre y cuando esta se pague usando este servicio, para hacerlo, se debe ingresar el código de la transacción proporcionado en laparte inferior de este cuadro **
 > ![](https://xpc.com.ec/guides-images/a11.png)
 > ![](https://xpc.com.ec/guides-images/a12.png)
 > ![](https://xpc.com.ec/guides-images/a13.png)
+
+## Como traer pedidos
 
 ### Productos
 En cuanto a los productos, la administración de estos viene directamente desde la base de datos administrada por XPC, por lo que no habría mayor información fuera de la requerida para subir imágenes en nuevos productos.
