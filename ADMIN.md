@@ -116,7 +116,7 @@ En cuanto a los productos, la administración de estos viene directamente desde 
 > ![](https://xpc.com.ec/guides-images/a45a.png)
 
 > Seleccionamos la acción SQL a la que queremos que se convierta nuestro CSV, en este caso **CSV a INSERT**
-> ![](https://xpc.com.ec/guides-images/a45b.png)
+> ![](https://xpc.com.ec/guides-images/a45bb.png)
 
 > Lo siguiente es ejecutar el SQL en la base datos MySql con la que funciona el sitio web en la tabla **Servicio Técnico**
 > ![](https://xpc.com.ec/guides-images/a46.png)
