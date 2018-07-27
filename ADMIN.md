@@ -104,12 +104,19 @@ En cuanto a los productos, la administración de estos viene directamente desde 
 > ***NOTA**.- Se realiza el mismo proceso que anteriormente con los productos*
 
 > ### Tracking
+> **IMPORTANTE**.- Para **todos** los procesos de IMPORTACIÓN y EXPORTACIÓN de información para el módulo externo de tracking (Mostrar listado de tracking en servientrega y solicitudes de garantías) debemos ingresar al **CPANEL** (xpc.com.ec/cpanel), las credenciales se especifican en el apartado de CPanel.
 > Al igual que anteriormente realizamos un Select en la BDD SQL Server y generamos el **CSV** 
 > ![](https://xpc.com.ec/guides-images/a44.png)
 > En este caso, por tratarse del módulo externo a wordpress, la subida se realizará vía SQL, por lo que se debe utilizar alguna herramienta para convertir de **CSV a SQL**, o a su vez, si su herramienta de SQL Management lo permite, exportar en formato SQL los resultados.
 > Acontinuación hacemos el ejemplo de conversión de CSV a SQL usando la herramienta http://www.convertcsv.com/csv-to-sql.htm
+> Importamos el archivo CSV
 > ![](https://xpc.com.ec/guides-images/a45.png)
-> ***NOTA:*** Esta es la herramienta que genera los inserts en formato **SQL**
+
+> Ingresamos los campos con los que queremos que se genera nuestro SQL 
+> ![](https://xpc.com.ec/guides-images/a45a.png)
+
+> Seleccionamos la acción SQL a la que queremos que se convierta nuestro CSV, en este caso **CSV a INSERT**
+> ![](https://xpc.com.ec/guides-images/a45b.png)
 
 > Lo siguiente es ejecutar el SQL en la base datos MySql con la que funciona el sitio web en la tabla **Servicio Técnico**
 > ![](https://xpc.com.ec/guides-images/a46.png)
