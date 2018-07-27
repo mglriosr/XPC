@@ -131,7 +131,15 @@ En cuanto a los productos, la administración de estos viene directamente desde 
 > Los campos deben estar seleccionados tal como en la imagen y luego clickear en el campo de **EXPORTAR** en la parte inferior de la pantalla.
 
 > ![](https://xpc.com.ec/guides-images/a48.png)
-> ![](https://xpc.com.ec/guides-images/a45.png)
+
+> Importamos el archivo CSV
+> ![](https://xpc.com.ec/guides-images/a45c.png)
+
+> Ingresamos los campos con los que queremos que se genera nuestro SQL 
+> ![](https://xpc.com.ec/guides-images/a45a.png)
+
+> Seleccionamos la acción SQL a la que queremos que se convierta nuestro CSV, en este caso **CSV a INSERT**
+> ![](https://xpc.com.ec/guides-images/a45bb.png)
 > ![](https://xpc.com.ec/guides-images/a49.png)
 > ***NOTA**.- El Sql debe ser ejecutado en la tabla **VENTAS_WEB** y el sistema, de forma automática, usando los disparadores creados con anticipación realizará la inserción en las tablas del sistema en los formatos internos de XPC*
 
