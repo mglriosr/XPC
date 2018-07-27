@@ -140,7 +140,7 @@ En cuanto a los productos, la administración de estos viene directamente desde 
 
 > Seleccionamos la acción SQL a la que queremos que se convierta nuestro CSV, en este caso **CSV a INSERT**
 > ![](https://xpc.com.ec/guides-images/a45bb.png)
-> ![](https://xpc.com.ec/guides-images/a49.png)
+> ![](https://xpc.com.ec/guides-images/a49a.png)
 > ***NOTA**.- El Sql debe ser ejecutado en la tabla **VENTAS_WEB** y el sistema, de forma automática, usando los disparadores creados con anticipación realizará la inserción en las tablas del sistema en los formatos internos de XPC*
 
 > ### Solicitudes de garantías
