@@ -161,6 +161,19 @@ En cuanto a los productos, la administración de estos viene directamente desde 
 > **IMPORTANTE!** En línea podrá estar una sola persona a la vez, para lo cual, si desean ingresar, deberán pedir al vendedor que esté conectado cerrar la sesión para que la otra persona pueda ingresar. 
 > Desde la APP Store y Play Store pueden descargarse la aplicación de Jivochat para que puedan ingresar con su celular.
 
+# Módulo Garantías
+> Para ingresar debemos dirigirnos al link (https://xpc.com.ec/tracking/login-admin-garantias.php), al cual podemos acceder también desde el sitio xpc.com.ec/traking, en el botón de administración del lado superior derecho
+> ![](https://xpc.com.ec/guides-images/a57.png)
+
+> En donde debemos ingresar la llave de acceso:
+`*_o5XF9qXPC`
+
+> Dentro se desplegaran las solicitudes pendientes, a las que, accediendo se nos desplegarán los detalles de la solicitud con las opciones de aceptar o rechazar.
+> ![](https://xpc.com.ec/guides-images/a58.png)
+> ![](https://xpc.com.ec/guides-images/a59.png)
+> ![](https://xpc.com.ec/guides-images/a60.png)
+
+
 # cPanel 
 ## Detalles técnicos generales
 
