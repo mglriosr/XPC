@@ -127,6 +127,9 @@ En cuanto a los productos, la administración de estos viene directamente desde 
 > ### Pedidos
 
 > Primero debemos extraer los datos de la herramienta de administración de **Wordpress**, para lo cual nos dirigimos a *WooCommerce >> Extraer pedidos* y ejecutamo, esto nos imprimirá un archivo CSV el cual, usando la herramienta anterior (http://www.convertcsv.com/csv-to-sql.htm) debe ser convertido a SQL para luego ser ejecutado en el administrador de **SQL Server**
+
+> Los campos deben estar seleccionados tal como en la imagen y luego clickear en el campo de **EXPORTAR** en la parte inferior de la pantalla.
+
 > ![](https://xpc.com.ec/guides-images/a48.png)
 > ![](https://xpc.com.ec/guides-images/a45.png)
 > ![](https://xpc.com.ec/guides-images/a49.png)
