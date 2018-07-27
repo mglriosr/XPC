@@ -150,8 +150,6 @@ En cuanto a los productos, la administración de estos viene directamente desde 
 > ![](https://xpc.com.ec/guides-images/a52.png)
 > ***NOTA**.- El Sql debe ser ejecutado en la tabla **GARANTIASWEB** y el sistema, de forma automática, usando los disparadores creados con anticipación realizará la inserción en las tablas del sistema en los formatos internos de XPC*
 
-
-
 #### Importante
 > Los procesos de manipulación de base de datos que usamos para el desarrollo del sitio web son los predeterminados de Wordpress, con el plugin de administración de tienda WooCommerce, existen muchas otras maneras de hacerlo y esto depende de cada desarrollador y/o administrador del sitio web. En casos de manipulación, migraciones o actualizaciones de estas, pero nosotros recomendamos usar las predeterminadas de wordpress.
 
@@ -185,6 +183,20 @@ En cuanto a los productos, la administración de estos viene directamente desde 
 
 > En donde debemos ingresar la llave de acceso:
 `*_o5XF9qXPC`
+
+> Esta llave está descrita como llave única, por lo que para modificarla debemos dirigirnos al código del módulo y hacer lo siguiente:
+
+> Dirigirnos al Directorio /trcaking
+> ![](https://xpc.com.ec/guides-images/a100.png)
+
+> En el archivo admin-garantias.php, editar la siguiente línea
+> ![](https://xpc.com.ec/guides-images/a101.png)
+
+> **NOTA:** También debe ser cambiada la contraseña en los archivos: aceptar.php y rechazar.php
+> ![](https://xpc.com.ec/guides-images/a102.png)
+> ![](https://xpc.com.ec/guides-images/a103.png)
+
+
 
 > Dentro se desplegaran las solicitudes pendientes, a las que, accediendo se nos desplegarán los detalles de la solicitud con las opciones de aceptar o rechazar.
 > ![](https://xpc.com.ec/guides-images/a58.png)
