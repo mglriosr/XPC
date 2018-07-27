@@ -143,6 +143,7 @@ En cuanto a los productos, la administración de estos viene directamente desde 
 > ![](https://xpc.com.ec/guides-images/a54.png)
 > ![](https://xpc.com.ec/guides-images/a55.png)
 > *Javascript del chat:*
+
 `
 <!-- BEGIN JIVOSITE CODE -->
 <script type='text/javascript'>
@@ -237,11 +238,4 @@ En cuanto a los productos, la administración de estos viene directamente desde 
 > Contraseña: Xpc2018*
 
 > ![](https://xpc.com.ec/guides-images/a17.png)
-
-### CHAT
-Script
-credenciales
-
-### Administración de garantias
-passwords
 
