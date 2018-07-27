@@ -221,7 +221,8 @@ En cuanto a los productos, la administración de estos viene directamente desde 
 
 **IMPORTANTE**
 
-> Debe tomar encuenta que las versiones de Cliente y Administrador trabajan con su propia instalación de wordpress, al ingresar al directorio especificado anteriormente está accediendo a la versión de cliente final, para acceder a la versión de **distribuidores** debe dirigirse, en el mismo directorio de cliente final a la carpeta *app/distribuidor*
+> Debe tomar encuenta que las versiones de Cliente y Administrador trabajan con su propia instalación de wordpress, al ingresar al directorio especificado anteriormente está accediendo a la versión de cliente final, para acceder a la versión de **distribuidores** debe dirigirse, en el mismo directorio de cliente final a la carpeta *app/distribuidor*.
+**Además**, todo lo referente al código del módulo de administración de solicitudes se encuentran en el directorio /tracking.
 
 > ![](https://xpc.com.ec/guides-images/a21.png)
 
