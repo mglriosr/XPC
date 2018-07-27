@@ -74,28 +74,91 @@ En cuanto a los productos, la administración de estos viene directamente desde 
 
 # Importar / Exportar Información
 ### Importar productos, usuarios, tracking
+
 > #### Productos
+
+> **Primero**.- Hacer un select en la base de datos SQL Server y guardar el resultado en formato **CSV**
 > ![](https://xpc.com.ec/guides-images/a32.png)
+
+> **Luego**, en nuestra adminisración de **wordpress** nos dirigimos a la sección productos y seleccionamos la opción de importar
 > ![](https://xpc.com.ec/guides-images/a33.png)
+
+> Subimos el archivo **CSV** generado anteriormente
 > ![](https://xpc.com.ec/guides-images/a34.png)
 > ![](https://xpc.com.ec/guides-images/a35.png)
+> Verificar que los campos esten correctamente enlazados, en caso de que no, hacer la selección
 > ![](https://xpc.com.ec/guides-images/a36.png)
+
+> Ejecutar la importación
 > ![](https://xpc.com.ec/guides-images/a37.png)
 > ![](https://xpc.com.ec/guides-images/a38.png)
 > ![](https://xpc.com.ec/guides-images/a39.png)
 
 > #### Usuarios
+
+> Al igual que anteriormente realizamos un Select en la BDD SQL Server y generamos el **CSV**
 > ![](https://xpc.com.ec/guides-images/a40.png)
 > ![](https://xpc.com.ec/guides-images/a41.png)
 > ![](https://xpc.com.ec/guides-images/a42.png)
 > ![](https://xpc.com.ec/guides-images/a43.png)
+> ***NOTA**.- Se realiza el mismo proceso que anteriormente con los productos*
+
+> ### Tracking
+> Al igual que anteriormente realizamos un Select en la BDD SQL Server y generamos el **CSV** 
+> ![](https://xpc.com.ec/guides-images/a44.png)
+> En este caso, por tratarse del módulo externo a wordpress, la subida se realizará vía SQL, por lo que se debe utilizar alguna herramienta para convertir de **CSV a SQL**, o a su vez, si su herramienta de SQL Management lo permite, exportar en formato SQL los resultados.
+> Acontinuación hacemos el ejemplo de conversión de CSV a SQL usando la herramienta http://www.convertcsv.com/csv-to-sql.htm
+> ![](https://xpc.com.ec/guides-images/a45.png)
+> ***NOTA:*** Esta es la herramienta que genera los inserts en formato **SQL**
+
+> Lo siguiente es ejecutar el SQL en la base datos MySql con la que funciona el sitio web en la tabla **Servicio Técnico**
+> ![](https://xpc.com.ec/guides-images/a46.png)
+> ![](https://xpc.com.ec/guides-images/a47.png)
+
+### Exportar Pedidos y Solicitudes de garantías
+
+> ### Pedidos
+
+> Primero debemos extraer los datos de la herramienta de administración de **Wordpress**, para lo cual nos dirigimos a *WooCommerce >> Extraer pedidos* y ejecutamo, esto nos imprimirá un archivo CSV el cual, usando la herramienta anterior (http://www.convertcsv.com/csv-to-sql.htm) debe ser convertido a SQL para luego ser ejecutado en el administrador de **SQL Server**
+> ![](https://xpc.com.ec/guides-images/a48.png)
+> ![](https://xpc.com.ec/guides-images/a45.png)
+> ![](https://xpc.com.ec/guides-images/a49.png)
+> ***NOTA**.- El Sql debe ser ejecutado en la tabla **VENTAS_WEB** y el sistema, de forma automática, usando los disparadores creados con anticipación realizará la inserción en las tablas del sistema en los formatos internos de XPC*
+
+> ### Solicitudes de garantías
+> A diferecnia del caso anterior, para las solicitudes de garantías debemos ingresar por cPanel a la BDD del sitio web y extraer los datos en formato SQL de la tabla **GARANTIASWEB** y ejecutarlo en el administrador de **SQL Server**
+> ![](https://xpc.com.ec/guides-images/a50.png)
+> ![](https://xpc.com.ec/guides-images/a51.png)
+> ![](https://xpc.com.ec/guides-images/a52.png)
+> ***NOTA**.- El Sql debe ser ejecutado en la tabla **GARANTIASWEB** y el sistema, de forma automática, usando los disparadores creados con anticipación realizará la inserción en las tablas del sistema en los formatos internos de XPC*
 
 
 
 #### Importante
 > Los procesos de manipulación de base de datos que usamos para el desarrollo del sitio web son los predeterminados de Wordpress, con el plugin de administración de tienda WooCommerce, existen muchas otras maneras de hacerlo y esto depende de cada desarrollador y/o administrador del sitio web. En casos de manipulación, migraciones o actualizaciones de estas, pero nosotros recomendamos usar las predeterminadas de wordpress.
 
-### Como subir CSV
+# Chat en línea
+> Para que el chat en línea funcione en el sitio web, se ingresó vía **Javascript** en la cabecera, ya que este servicio es externo y funciona con sus propios recursos
+> ![](https://xpc.com.ec/guides-images/a53.png)
+> ![](https://xpc.com.ec/guides-images/a54.png)
+> ![](https://xpc.com.ec/guides-images/a55.png)
+> *Javascript del chat:*
+> <!-- BEGIN JIVOSITE CODE -->
+<script type='text/javascript'>
+(function(){ var widget_id = 'rbp2M7kSme';var d=document;var w=window;function l(){ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();
+</script>
+<!-- END JIVOSITE CODE -->
+
+> Para acceder al perfil de usuario, para lo cual nos dirigimos al siguiente link https://app.jivosite.com/ con las credenciales
+
+> info@xpc.com.ec
+> XPC2018 (XPC con mayúsculas)
+
+> Al momento de ingresar, por favor, les pedimos manejarse solamente en estos dos espacios, los otros botones que están en la parte inferior son de configuración y si se habilita o deshabilita algo, podría causarnos problemas en el chat. Cualquier inquietud sobre el chat, estamos a las órdenes.
+> ![](https://xpc.com.ec/guides-images/a56.png)
+
+> **IMPORTANTE!** En línea podrá estar una sola persona a la vez, para lo cual, si desean ingresar, deberán pedir al vendedor que esté conectado cerrar la sesión para que la otra persona pueda ingresar. 
+> Desde la APP Store y Play Store pueden descargarse la aplicación de Jivochat para que puedan ingresar con su celular.
 
 # cPanel 
 ## Detalles técnicos generales
