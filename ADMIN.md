@@ -196,6 +196,13 @@ En cuanto a los productos, la administración de estos viene directamente desde 
 > ![](https://xpc.com.ec/guides-images/a102.png)
 > ![](https://xpc.com.ec/guides-images/a103.png)
 
+> El correo configurado al momento es pablovizuete@xpc.com.ec, si se desea cambiar el destinatario, debe ingresar los archivos garantias.php y rechazar.php
+
+> ![](https://xpc.com.ec/guides-images/201.png)
+> ![](https://xpc.com.ec/guides-images/202.png)
+> ![](https://xpc.com.ec/guides-images/203.png)
+
+
 
 
 > Dentro se desplegaran las solicitudes pendientes, a las que, accediendo se nos desplegarán los detalles de la solicitud con las opciones de aceptar o rechazar.
